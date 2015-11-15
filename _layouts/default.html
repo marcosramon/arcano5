@@ -10,10 +10,60 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="MobileOptimized" content="320" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <meta itemprop="description" name="description" content="Textos sobre filosofia, cotidiano, arte e tecnologia">
+    <meta itemprop="genre" content="website" />
+    <meta itemprop="inLanguage" content="pt-BR" />
+    <meta name="pdate" content="{{ page.date | date: "%d/%m/%Y" }}" />
+    <meta name="author" content="Marcos Ramon"/>
+  
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.arcano5.com.br{{ page.url }}/">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="article:author" content="https://www.facebook.com/MarcosRamonGomesFerreira">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:locale" content="pt_BR">
+ {% if page.tags %}
+ {% for tag in page.tags %}
+   <meta property="article:tag" content="{{ tag }}">
+ {% endfor %}
+ {% endif %}
+ {% if page.date %}
+   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+   <meta content="{{ site.url }}/sobre#o-autor/" property="article:author">
+ {% endif %}
+
+    <!-- Twitter Card -->
+    <meta name="author" content="Marcos Ramon" >
+    <link href="https://plus.google.com/u/0/+marcosramon/posts" rel="author">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:creator" content="@mrtollens">
+    <meta name="twitter:site" content="@mrtollens">
+    <meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image }}">
+    <meta name="twitter:domain" content="http://www.arcano5.com.br">
 
     <link rel="stylesheet" type="text/css" href="/assets/css/screen.css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
     <!-- Customisation  -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.0/css/cc-icons.min.css" rel="stylesheet">
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}/">
+    <link href="https://plus.google.com/u/0/+marcosramon/about" rel="publisher">
+    <meta name="google-site-verification" content="TJz5YW6neqLi6Notmq0eGnItd0x48h0MPopNMYk9U08" />
+    <meta name="robots" content="index, follow">
+  
+    <!-- Icons -->
+    <link rel="shortcut icon" href="https://dl.dropboxusercontent.com/u/49566417/favicon%20%282%29.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-precomposed.png">
+  
+    <!-- RSS -->
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}atom.xml">
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
 
 </head>
