@@ -12,7 +12,7 @@ about: 'about.html'
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
-        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="http://eepurl.com/M7pQn">Subscribe</a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
@@ -46,10 +46,10 @@ about: 'about.html'
         <footer class="post-meta">
             {% if site.author %}
                 <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
-                {{ site.author }}
+                <a href="https://plus.google.com/u/0/+marcosramon/posts">{{ site.author }}</a>
             {% endif %}
             {% if post.categories.size > 0 %} 
-                {{ post.categories | array_to_sentence_string | prepend: 'on ' }} 
+                {{ post.categories | array_to_sentence_string | prepend: '- ' }} 
             {% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
