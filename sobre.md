@@ -19,4 +19,4 @@ Meu nome é Marcos Ramon. Sou escritor, músico e professor de Filosofia. Escrev
           
 Este é um site pessoal e eu autorizo o compartilhamento, a distribuição e a remixagem de tudo que tem aqui (exceto aquilo que não for de minha autoria, porque aí não depende de mim), desde que o propósito disso não envolva fins comerciais e desde que seja mencionada a fonte original. Mais informações sobre essa licença de uso nesse [link](http://creativecommons.org/licenses/by-nc-sa/4.0/).
      
-[![creative commons](http://i.creativecommons.org/l/by-nc-sa/3.0/br/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+[![creative commons](http://i.creativecommons.org/l/by-nc-sa/3.0/br/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
