@@ -15,7 +15,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://www.arcano5.com.br'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-38260251-2'
 
 # Permalinks
 permalink:        /:title/
