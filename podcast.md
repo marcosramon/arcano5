@@ -10,7 +10,7 @@ published: true
 
 ##Ficções
 
-*Ficções* é um podcast sobre narrativas filosóficas. <img src="https://dl.dropboxusercontent.com/u/49566417/blog/images/ficcoes1400.jpg" height="200" width="200" alt="Ficções, por Marcos Ramon" align="right"> A proposta é analisar os discursos filosóficos sobre o mundo como construções, invenções, e não verdades. Nesses programas eu abordo temas diversos a partir de conceitos filosóficos que se conectam com essa perspectiva de ficção. 
+*Ficções* é um podcast sobre narrativas filosóficas. <img src="https://dl.dropboxusercontent.com/u/49566417/ficcoes144%20novo.jpg" height="200" width="200" alt="Ficções, por Marcos Ramon" align="right"> A proposta é analisar os discursos filosóficos sobre o mundo como construções, invenções, e não verdades. Nesses programas eu abordo temas diversos a partir de conceitos filosóficos que se conectam com essa perspectiva de ficção. 
 
 <a href="http://www.marcosramon.net/ficcoes" target="_blank">Blog do podcast</a> - <i class="fa fa-rss"></i> [Feed](http://feeds.feedburner.com/marcosramon?format=xml){:target="_blank"} - [Itunes](https://itunes.apple.com/br/podcast/ficcoes-marcos-ramon/id967600465?l=en){:target="_blank"} - [Tunein Radio](http://tunein.com/radio/Fic%C3%A7%C3%B5es-p610099/){:target="_blank"}
 
