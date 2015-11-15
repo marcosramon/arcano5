@@ -52,7 +52,6 @@ about: 'about.html'
                 {{ post.categories | array_to_sentence_string | prepend: '- ' }} 
             {% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%d/%m/%Y" }}">
-                {{ post.date | date_to_string }}
             </time> 
         </footer>
     </article>
