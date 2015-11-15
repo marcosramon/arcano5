@@ -2,8 +2,15 @@ name: Arcano5
 description: Filosofia, cotidiano, arte e tecnologia
 meta_description: "Filosofia, cotidiano, arte e tecnologia"
 
-markdown: redcarpet
-highlighter: pygments
+markdown:         kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  pygments: true
+  
 logo: false
 paginate: 15
 baseurl: /
