@@ -63,12 +63,10 @@ post_class: post-template
         <footer class="post-footer">
             <!-- If we want to display author's name and bio -->
             {% if site.author %}
-                <figure class="author-image">
-                    <a class="img" href="{{ site.baseurl }}" style="background-image: https://dl.dropboxusercontent.com/u/49566417/blog/toll4_400.png">
-                    <span class="hidden">{{site.author}}'s Picture</span></a>
-                </figure>
-                <section class="author">
-                    <!-- Author Name -->
+            <section class="author">
+            <header> <a href="http://www.arcano5.com.br/sobre#o-autor"> <img class="profile" src="https://dl.dropboxusercontent.com/u/49566417/blog/toll4_400.png" alt="Author's profile picture"></a></header>
+            <article>
+            <!-- Author Name -->
                     <h4> {{ site.author }} </h4>
                     <!-- Author Bio -->
                     <p> 
