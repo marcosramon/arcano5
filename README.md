@@ -1,38 +1,18 @@
-# Kasper
+# Arcano5
 
-This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
+Esse é um blog sobre [filosofia](http://www.arcano5.com.br/tag/filosofia/), [cotidiano](http://www.arcano5.com.br/tag/cotidiano/), [arte](http://www.arcano5.com.br/tag/arte/) e [tecnologia](http://www.arcano5.com.br/tag/tecnologia/). Você pode acessar as postagens do blog mais facilmente utilizando o [arquivo](http://www.arcano5.com.br/arquivo) ou fazendo uma busca por [tags](http://www.arcano5.com.br/tags).
 
-## How to use it
+O template que utilizo nesse blog é uma versão customizada do tema [Casper](https://github.com/tryghost/casper).
 
-Simply clone this repository, and then run `jekyll serve` inside the directory.
+## Autor
 
-Kasper theme includes:
+[**Marcos Ramon**](https://twitter.com/mrtollens) - professor de filosofia, músico e escritor compulsivo.
 
-* Pagination
-* Rss
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture
-* Disqus comments
+## Uso e compartilhamento
+          
+Este é um site pessoal e eu autorizo o compartilhamento, a distribuição e a remixagem de tudo que tem aqui (exceto aquilo que não for de minha autoria, porque aí não depende de mim), desde que o propósito disso não envolva fins comerciais e desde que seja mencionada a fonte original. Em resumo: você pode reutilizar livremente qualquer parte da estrutura, design e layout deste site, mas o conteúdo do site (posts e conteúdo das páginas) é de minha autoria e em caso de reutilização você precisa observar a [licença de uso *Creative Commons* que utilizo aqui](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Screenshots
-
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
-
-
-## Thanks 
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
-I've also added few things specific to Jekyll and some minor style changes.
-
-## Copyright & License
-
-Copyright (C) 2013 Ghost Foundation - Released under the MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+***
+*You may feel free to re-use any part of the structure, design, and layout of this site. However, the content of the site (blog posts and page content) is licensed under a Creative Commons Attribution license:*
+     
+[![creative commons](http://i.creativecommons.org/l/by-nc-sa/3.0/br/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
