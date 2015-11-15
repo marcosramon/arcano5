@@ -17,6 +17,9 @@ baseurl: /
 domain_name: 'http://www.arcano5.com.br'
 google_analytics: 'UA-XXXXXXXX-X'
 
+# Permalinks
+permalink:        /:title/
+
 # Details for the RSS feed generator
 url:            'www.arcano5.com.br'
 author:         'Marcos Ramon'
