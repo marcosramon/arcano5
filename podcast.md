@@ -8,6 +8,15 @@ header-img: "/img/abstrato6.jpg"
 published: true
 ---
 
+Antes de qualquer coisa: <b>o que é um podcast?</b> Uma explicação simples - mas não tecnicamente a melhor - é que um podcast é como um programa de rádio, mas distribuído pela internet. Uma explicação mais técnica, você encontra [aqui](http://mundopodcast.com.br/artigos/o-que-e-podcast/){:target="_blank"}.
+
+<b>Como posso escutar um podcast?</b> 
+1. Você pode escutar diretamente na web (no site onde o podcast é publicado vai ter sempre um player); 
+2. Você pode fazer o download desse programa em mp3 no site do Podcast e escutar em qualquer lugar (geralmente tem a opção de fazer esse download);
+3. Você pode utilizar um aplicativo no smartphone ou tablet para receber as atualizações do Podcast automaticamente. Esses aplicativos são chamados de [agregadores](http://mundopodcast.com.br/agregadores/){:target="_blank"}.
+
+Atualmente eu estou envolvido com a produção de dois podcasts. São eles:
+
 ##Ficções
 
 *Ficções* é um podcast sobre narrativas filosóficas. <img src="http://static1.squarespace.com/static/54d2c003e4b0dccf9fb71200/t/55fffe27e4b089b946abdd78/1442840104852/?format=300w" height="200" width="200" alt="Ficções, por Marcos Ramon" align="right"> A proposta é analisar os discursos filosóficos sobre o mundo como construções, invenções, e não verdades. Nesses programas eu abordo temas diversos a partir de conceitos filosóficos que se conectam com essa perspectiva de ficção. 
