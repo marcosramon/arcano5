@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meus Podcasts
+title: Podcasts
 description: "podcast + filosofia + cotidiano"
 author: Marcos Ramon
 image: https://dl.dropboxusercontent.com/u/49566417/blog/images/ficcoes1400.jpg
