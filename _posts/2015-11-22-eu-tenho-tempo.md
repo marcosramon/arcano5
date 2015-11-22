@@ -4,7 +4,7 @@ title: Eu tenho tempo
 description: "Eu tenho o tempo que eu quiser para realizar qualquer coisa. Tudo o que eu preciso está comigo."
 published: true
 tags: [cotidiano]
-date: 2015-11-23
+date: 2015-11-22
 image: https://dl.dropboxusercontent.com/u/49566417/blog/11_2015/tempo%20pra%20tudo.png
 author: Marcos Ramon
 ---
