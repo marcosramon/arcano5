@@ -9,7 +9,7 @@ published: true
 ---
 ---
 Antes de qualquer coisa: 
-<b>O que é um podcast?</b> Uma explicação simples (mas não tecnicamente a melhor) é que um podcast é como um programa de rádio, mas distribuído pela internet. Uma explicação mais técnica, você encontra [aqui](http://mundopodcast.com.br/artigos/o-que-e-podcast/){:target="_blank"}.
+<b>O que é um podcast?</b> Uma explicação simples (mas não tecnicamente a melhor) é que um podcast é como um programa de rádio, mas distribuído pela internet. Uma explicação mais técnica você encontra [aqui](http://mundopodcast.com.br/artigos/o-que-e-podcast/){:target="_blank"}.
 
 <b>Como posso escutar um podcast?</b> 
 
