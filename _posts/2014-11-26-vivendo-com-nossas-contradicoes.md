@@ -13,7 +13,7 @@ header-img: "/img/abstrato3.jpg"
 
 Não existe nada mais humano do que viver nossas contradições. Dia desses estava em uma palestra ouvindo um professor que se nomeava comunista, critiva o Estado, o sistema, o fetichismo da mercadoria etc. Em dado momento da palestra tocou o celular dele e o toque era uma música do *The Pretenders* ([Back on the Chain Gang](https://www.youtube.com/watch?v=CK3uf5V0pDA)):
 
-<img src="https://dl.dropboxusercontent.com/u/49566417/blog/11_2014/chaingang.jpg" alt="Pretenders - Back on the Chain Gang" height="200" width="200">
+<img src="https://dl.dropboxusercontent.com/u/49566417/blog/11_2014/chaingang.jpg" alt="Pretenders - Back on the Chain Gang" height="300" width="300" align="right">
 
 > <i class="fa fa-quote-left fa-2x"></i> *We're back on the train <br> Oh, back on the chain gang*
 
