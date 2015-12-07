@@ -5,7 +5,7 @@ description: "A linguagem é o nosso modo natural de iludir, enganar, dissimular
 published: true
 tags: [cotidiano]
 date: 2015-12-07
-image: https://dl.dropboxusercontent.com/u/49566417/blog/11_2015/tempo%20pra%20tudo.png
+image: https://db.tt/qX05ptFi
 author: Marcos Ramon
 ---
 
