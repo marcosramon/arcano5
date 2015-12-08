@@ -27,6 +27,7 @@ Atualmente eu estou envolvido com a produção de dois podcasts. São eles:
 
 ###Episódios:
 
+[Ficções #42 - Deus está morto?](http://www.marcosramon.net/ficcoes/ficcoes-42-deus-esta-morto){:target="_blank"}<br>
 [Ficções #41 - O discurso acadêmico é uma farsa?](http://www.marcosramon.net/ficcoes/ficcoes-41-o-discurso-academico-e-uma-farsa){:target="_blank"}<br>
 [Ficções #40 - O exercício do pensamento](http://www.marcosramon.net/ficcoes/ficcoes-40-o-exercicio-do-pensamento){:target="_blank"}<br>
 [Ficções #39 - O dilema urbano](http://www.marcosramon.net/ficcoes/ficcoes-39-o-dilema-urbano){:target="_blank"}<br>
