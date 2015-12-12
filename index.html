@@ -5,12 +5,11 @@ cover: 'https://dl.dropboxusercontent.com/u/49566417/blog/11_2015/cover_bw.jpg'
 about: 'about.html'
 ---
 
-<header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% endif%}>
-    <div class="vertical">
-        <div class="site-head-content" class="inner">
+<header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
+    <nav class="main-nav overlay clearfix">
             {% if page.logo %}
                 <a class="blog-logo" href="{{ site.baseurl }}">
-                    <img src="{{ page.logo}}" alt="Blog Logo" />
+                    <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
         <a class="subscribe-button icon-feed" href="http://eepurl.com/M7pQn">Subscribe</a>
