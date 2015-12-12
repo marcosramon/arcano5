@@ -4,6 +4,7 @@ title: O que interessa
 description: "Precisamos mesmo é de silêncio"
 published: true
 tags: [cotidiano, filosofia]
+categories: [cotidiano, filosofia]
 date: 2015-12-10
 image: https://db.tt/ItGi7w4g
 author: Marcos Ramon
