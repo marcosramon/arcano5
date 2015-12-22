@@ -83,6 +83,7 @@ Atualmente eu estou envolvido com a produção de dois podcasts. São eles:
 
 ###Episódios:
 
+[Soma #10 - 4'33''](http://www.marcosramon.net/soma/soma-10-4-33){:target="_blank"}<br>
 [Soma #09 - Binaural](http://www.marcosramon.net/soma/soma-09-binaural){:target="_blank"}<br>
 [Soma #08 - Moça, posso te mostrar um podcast?](http://www.marcosramon.net/soma/soma-08-moca-posso-te-mostrar-um-podcast){:target="_blank"}<br>
 [Soma #07 - Domingo no parque](http://www.marcosramon.net/soma/soma-07-domingo-no-parque){:target="_blank"}<br>
