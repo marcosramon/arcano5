@@ -12,7 +12,7 @@ author: Marcos Ramon
 
 Ontem, logo cedo, vi na internet alguma coisa sobre ser o *#DiaDoLeitor* e junto um monte de propagandas e links para sites que estavam vendendo livros, *e-readers* e os itens mais diversos para os amantes da leitura.
 
-Hoje, quase num replay, vi na internet pela manhã que era o *#DiaDaFotografia* e junto com isso advinhe o quê? Exato. Propagandas e links venedendo câmeras, lentes, livros sobre fotografia e tudo o que possa interessar aos amantes dessa arte.
+Hoje, quase num replay, vi na internet pela manhã que era o *#DiaDaFotografia* e junto com isso advinhe o quê? Exato. Propagandas e links vendendo câmeras, lentes, livros sobre fotografia e tudo o que possa interessar aos amantes dessa arte.
 
 Amanhã não sei o que será, mas deviam logo padronizar que todo dia é o *#DiaDeComprar*. Eles já jogam o desejo em cima da gente o tempo todo, não é? Pra quê disfarçar?
 
