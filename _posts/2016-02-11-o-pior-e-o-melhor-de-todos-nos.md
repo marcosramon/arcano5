@@ -1,7 +1,7 @@
 ---
 layout: post
 title: O pior e o melhor de todos nós
-description: "Tem gente que, mesmo sem ter o espírito carnavalesco, consegue se fantasiar do que não é e aproveitar essa época do ano da melhor forma possível. Afinal, é tudo diversão e alegria e desapego."
+description: "Uma das consequências mais terríveis de se andar de transporte público - pelo menos pra mim - é acabar sentindo raiva."
 published: true
 tags: [cotidiano]
 categories: [cotidiano]
