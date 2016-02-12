@@ -8,14 +8,7 @@ header-img: "/img/abstrato6.jpg"
 published: true
 ---
 
-Antes de qualquer coisa: 
-<b>O que é um podcast?</b> Uma explicação simples (mas não tecnicamente a melhor) é que um podcast é como um programa de rádio, mas distribuído pela internet. Uma explicação mais técnica você encontra [aqui](http://mundopodcast.com.br/artigos/o-que-e-podcast/){:target="_blank"}.
-
-<b>Como posso escutar um podcast?</b> 
-
-- Você pode escutar diretamente na web (no site onde o podcast é publicado vai ter sempre um player); 
-- Você pode fazer o download desse programa em mp3 no site do podcast e escutar em qualquer lugar (geralmente tem a opção de fazer esse download);
-- Você pode utilizar um aplicativo no smartphone ou tablet para assinar o feed e receber as atualizações do podcast automaticamente. Esses aplicativos são chamados de [agregadores](http://mundopodcast.com.br/agregadores/){:target="_blank"}.
+Antes de qualquer coisa: se você ainda não sabe o que é um podcast [leia isto](http://www.marcosramon.net/blog/o-que-um-podcast){:target="_blank"}.
 
 Atualmente eu estou envolvido com a produção de dois podcasts. São eles:
 
