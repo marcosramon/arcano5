@@ -17,7 +17,7 @@ Atualmente eu estou envolvido com a produção de três podcasts. São eles:
 
 <a href="https://geo.itunes.apple.com/br/podcast/ficcoes/id967600465?mt=2" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
 
-<a href="http://subscribeonandroid.com/www.marcosramon.net/ficcoes?format=rss" title="Subscribe on Android"><img src="https://assets.blubrry.com/soa/BadgeLarge.png" alt="Subscribe on Android" align="left" style="border:0;" /></a>
+<a href="http://subscribeonandroid.com/www.marcosramon.net/ficcoes?format=rss" title="Subscribe on Android"><img src="https://assets.blubrry.com/soa/BadgeLarge.png" alt="Subscribe on Android" align="left" style="border:0;" /></a><br>
 
 [Feed](http://www.marcosramon.net/ficcoes?format=rss){:target="_blank"}<br>
 [Episódios](http://www.marcosramon.net/ficcoes/){:target="_blank"}<br>
@@ -30,7 +30,7 @@ Atualmente eu estou envolvido com a produção de três podcasts. São eles:
 
 <a href="https://geo.itunes.apple.com/br/podcast/soma/id1026413312?mt=2" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
 
-<a href="http://subscribeonandroid.com/feeds.feedburner.com/marcosramon-soma" title="Subscribe on Android"><img src="https://assets.blubrry.com/soa/BadgeLarge.png" alt="Subscribe on Android" align="left" style="border:0;" /></a>
+<a href="http://subscribeonandroid.com/feeds.feedburner.com/marcosramon-soma" title="Subscribe on Android"><img src="https://assets.blubrry.com/soa/BadgeLarge.png" alt="Subscribe on Android" align="left" style="border:0;" /></a><br>
 
 [Feed](http://feeds.feedburner.com/marcosramon-soma){:target="_blank"}<br>
 [Episódios](http://www.marcosramon.net/soma"){:target="_blank"}<br>
@@ -41,7 +41,7 @@ Atualmente eu estou envolvido com a produção de três podcasts. São eles:
 <img src="http://static1.squarespace.com/static/54d2c003e4b0dccf9fb71200/t/56bdc22fc6fc08fac954f940/1455276595642/?format=500w" height="200" width="200" alt="Ano Bissexto, por Marcos Ramon">
 *Ano Bissexto* é um projeto de gravação e publicação de um episódio de podcast por dia, durante um ano inteiro (2016).
 
-<a href="https://geo.itunes.apple.com/br/podcast/ano-bissexto/id1071528752?mt=2" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+<a href="https://geo.itunes.apple.com/br/podcast/ano-bissexto/id1071528752?mt=2" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a><br>
 
 [Feed](http://feeds.feedburner.com/AnoBissexto){:target="_blank"}<br>
 [Episódios](https://soundcloud.com/marcosramon/sets/ano-bissexto){:target="_blank"}<br>
