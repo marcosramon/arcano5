@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Podcasts
-description: "podcast + filosofia + cotidiano"
+description: "Podcasts sobre filosofia e experimentações sonoras"
 author: Marcos Ramon
 image: https://dl.dropboxusercontent.com/u/49566417/blog/images/ficcoes1400.jpg
 header-img: "/img/abstrato6.jpg"
