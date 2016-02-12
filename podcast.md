@@ -34,7 +34,7 @@ Atualmente eu estou envolvido com a produção de três podcasts. São eles:
 
 [Feed](http://feeds.feedburner.com/marcosramon-soma){:target="_blank"}<br>
 [Episódios](http://www.marcosramon.net/soma"){:target="_blank"}<br>
-[Tunein Radio](http://tunein.com/radio/Soma-p774060/){:target="_blank"}<br>
+[TuneIn Radio](http://tunein.com/radio/Soma-p774060/){:target="_blank"}<br>
 
 ---
 
