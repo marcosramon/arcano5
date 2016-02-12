@@ -2,10 +2,10 @@
 layout: post
 title: Quando começa e quando termina?
 description: "Não sou adepto dessa história de que o ano começa depois do carnaval. Todo mundo faz um monte de coisa antes do carnaval, e dizer que nada de importante aconteceu antes é só um jeito de atrasar coisas que você sabe que deveria fazer."
-published: false
+published: true
 tags: [cotidiano]
 categories: [cotidiano]
-date: 2016-02-11
+date: 2016-02-12
 image: https://s-media-cache-ak0.pinimg.com/564x/f7/ff/73/f7ff73b89af1adaee314c6237e8f29a0.jpg
 author: Marcos Ramon
 ---
