@@ -20,7 +20,7 @@ Atualmente eu estou envolvido com a produção de três podcasts. São eles:
 
 <a href="https://geo.itunes.apple.com/br/podcast/ficcoes/id967600465?mt=2" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
 
-<a href="http://subscribeonandroid.com/www.marcosramon.net/ficcoes?format=rss" title="Subscribe on Android"><img src="https://assets.blubrry.com/soa/BadgeLarge.png" alt="Subscribe on Android" style="border:0;" /></a>
+<a href="http://subscribeonandroid.com/www.marcosramon.net/ficcoes?format=rss" title="Subscribe on Android"><img src="https://assets.blubrry.com/soa/BadgeLarge.png" alt="Subscribe on Android" align="left" style="border:0;" /></a>
 
 ---
 
@@ -32,7 +32,7 @@ Atualmente eu estou envolvido com a produção de três podcasts. São eles:
 
 <a href="https://geo.itunes.apple.com/br/podcast/soma/id1026413312?mt=2" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a>
 
-<a href="http://subscribeonandroid.com/feeds.feedburner.com/marcosramon-soma" title="Subscribe on Android"><img src="https://assets.blubrry.com/soa/BadgeLarge.png" alt="Subscribe on Android" style="border:0;" /></a>
+<a href="http://subscribeonandroid.com/feeds.feedburner.com/marcosramon-soma" title="Subscribe on Android"><img src="https://assets.blubrry.com/soa/BadgeLarge.png" alt="Subscribe on Android" align="left" style="border:0;" /></a>
 
 ---
 
