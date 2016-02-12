@@ -12,7 +12,6 @@ Antes de qualquer coisa: se você ainda não sabe o que é um podcast [leia isto
 
 Atualmente eu estou envolvido com a produção de três podcasts. São eles:
 
-##Ficções
 <img src="http://static1.squarespace.com/static/54d2c003e4b0dccf9fb71200/t/55fffe27e4b089b946abdd78/1442840104852/?format=300w" height="200" width="200" alt="Ficções, por Marcos Ramon">
 *Ficções* é um podcast sobre narrativas filosóficas.  A proposta é analisar os discursos filosóficos sobre o mundo como construções, invenções, e não verdades. Nesses programas eu abordo temas diversos a partir de conceitos filosóficos que se conectam com essa perspectiva de ficção. 
 
@@ -23,10 +22,7 @@ Atualmente eu estou envolvido com a produção de três podcasts. São eles:
 
 <a href="http://subscribeonandroid.com/www.marcosramon.net/ficcoes?format=rss" title="Subscribe on Android"><img src="https://assets.blubrry.com/soa/BadgeLarge.png" alt="Subscribe on Android" style="border:0;" /></a>
 
-
 ---
-
-##Soma
 
 <img src="http://static1.squarespace.com/static/54d2c003e4b0dccf9fb71200/t/55fffef1e4b05e6e38878748/1442840306297/?format=300w" height="200" width="200" alt="Soma, por Marcos Ramon">
 *Soma* é um podcast com experimentações sonoras. Escute em local silencioso e com fone de ouvido (sempre!).
@@ -39,8 +35,6 @@ Atualmente eu estou envolvido com a produção de três podcasts. São eles:
 <a href="http://subscribeonandroid.com/feeds.feedburner.com/marcosramon-soma" title="Subscribe on Android"><img src="https://assets.blubrry.com/soa/BadgeLarge.png" alt="Subscribe on Android" style="border:0;" /></a>
 
 ---
-
-##Ano Bissexto
 
 <img src="http://static1.squarespace.com/static/54d2c003e4b0dccf9fb71200/t/56bdc22fc6fc08fac954f940/1455276595642/?format=500w" height="200" width="200" alt="Ano Bissexto, por Marcos Ramon">
 *Ano Bissexto* é um projeto de gravação e publicação de um episódio de podcast por dia, durante um ano inteiro (2016).
