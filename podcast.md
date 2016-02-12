@@ -7,7 +7,7 @@ image: https://dl.dropboxusercontent.com/u/49566417/blog/images/ficcoes1400.jpg
 header-img: "/img/abstrato6.jpg"
 published: true
 ---
----
+
 Antes de qualquer coisa: 
 <b>O que é um podcast?</b> Uma explicação simples (mas não tecnicamente a melhor) é que um podcast é como um programa de rádio, mas distribuído pela internet. Uma explicação mais técnica você encontra [aqui](http://mundopodcast.com.br/artigos/o-que-e-podcast/){:target="_blank"}.
 
@@ -27,6 +27,7 @@ Atualmente eu estou envolvido com a produção de dois podcasts. São eles:
 
 ###Episódios:
 
+[Ficções #44 - Schopenhauer, Snoopy e Charlie Brown](http://www.marcosramon.net/ficcoes/ficcoes-40-schopenhauer-snoopy-e-charlie-brown){:target="_blank"}<br>
 [Ficções #43 - A atividade política](http://www.marcosramon.net/ficcoes/ficcoes-43-a-atividade-poltica){:target="_blank"}<br>
 [Ficções #42 - Deus está morto?](http://www.marcosramon.net/ficcoes/ficcoes-42-deus-esta-morto){:target="_blank"}<br>
 [Ficções #41 - O discurso acadêmico é uma farsa?](http://www.marcosramon.net/ficcoes/ficcoes-41-o-discurso-academico-e-uma-farsa){:target="_blank"}<br>
