@@ -6,7 +6,7 @@ published: true
 tags: [cotidiano]
 categories: [cotidiano]
 date: 2016-02-28
-image: images/caminhando.jpg
+image: https://github.com/marcosramon/marcosramon.github.io/blob/master/assets/images/caminhando.jpg
 author: Marcos Ramon
 ---
 
@@ -49,4 +49,4 @@ que as respostas se perderam<br>
 por todo lugar<br>
 em algum lugar<br>
 
-<img src="images/caminhando.jpg">
+<img src="https://github.com/marcosramon/marcosramon.github.io/blob/master/assets/images/caminhando.jpg">
