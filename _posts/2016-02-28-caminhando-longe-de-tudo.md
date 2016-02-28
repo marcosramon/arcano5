@@ -10,7 +10,7 @@ image: https://github.com/marcosramon/marcosramon.github.io/blob/master/assets/i
 author: Marcos Ramon
 ---
 
-No episódio de hoje do meu podcast **Ano Bissexto**, li esse texto que você vê mais abaixo. Escrevi isso como uma letra de uma música que nunca chegou a existir. Na época (Janeiro de 2011), com pouco tempo aqui em Brasília, eu estava cansado e triste por estar vivendo nessa cidade. Mas o tempo passou e o meu sentimento em relação à cidade (e a mim mesmo) mudou.
+No [episódio de hoje do meu podcast **Ano Bissexto**](https://soundcloud.com/marcosramon/ano-bissexto-059-caminhando-longe-de-tudo), li esse texto que você vê mais abaixo. Escrevi isso como uma letra de uma música que nunca chegou a existir. Na época (Janeiro de 2011), com pouco tempo aqui em Brasília, eu estava cansado e triste por estar vivendo nessa cidade. Mas o tempo passou e o meu sentimento em relação à cidade (e a mim mesmo) mudou.
 Achar esse texto me mostrou como é importante dar tempo pras coisas acontecerem, dar tempo pro tempo passar. 
 
 **Caminhando longe de tudo (21/01/2011)**
