@@ -43,7 +43,6 @@ não quero pensar<br>
 não quero ter que pensar<br>
 a última coisa que eu queria<br>
 era depender disso<br>
-
 era olhar pra mim e saber<br>
 que as respostas se perderam<br>
 por todo lugar<br>
