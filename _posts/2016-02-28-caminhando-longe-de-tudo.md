@@ -6,7 +6,7 @@ published: true
 tags: [cotidiano]
 categories: [cotidiano]
 date: 2016-02-28
-image: 
+image: images/caminhando.jpg
 author: Marcos Ramon
 ---
 
@@ -48,3 +48,5 @@ era olhar pra mim e saber<br>
 que as respostas se perderam<br>
 por todo lugar<br>
 em algum lugar<br>
+
+<img src="images/caminhando.jpg">
