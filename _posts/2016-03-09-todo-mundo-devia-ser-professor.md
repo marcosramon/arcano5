@@ -18,7 +18,7 @@ Em algumas profissões, a rotina e a banalidade dos afazeres acabam por anestesi
 
 E por que isso é importante? Porque te faz voltar pra terra, te faz ter humildade e reconhecer as tuas limitações; aquelas que, no final, são as limitações de todos nós. Somos imperfeitos, egoístas e, no geral, temos medo do convívio social. Mas também podemos ser curiosos, gentis e esperançosos em relação à ideia de que uma vida melhor é possível, ainda que não saibamos como contribuir pra ela.
 
-Existem momentos em que os professores recebem gratidão pelo seu empenho e esforço e, sim, isso é muito bom. Mas também é importante entrar em contato com o olhar dos estudantes que menosprezam o que você faz. Claro, enfrentar o rancor e a dúvida é ruim pro ego, mas é bom pra alma. Te fortalece, te dá coragem pra persistir e, se você souber direcionar direito (eu ainda não consegui), traz também serenidade e sabedoria.
+Existem momentos em que os professores recebem gratidão pelo seu empenho e esforço e, sim, isso é muito bom. Mas é essencial também poder entrar em contato com o olhar dos estudantes que menosprezam o que você faz. Claro, enfrentar o rancor e a dúvida é ruim pro ego, mas é bom pra alma. Te fortalece, te dá coragem pra persistir e, se você souber direcionar direito (eu ainda não consegui), traz também serenidade e sabedoria.
 
 Todo mundo devia ser professor.
 
