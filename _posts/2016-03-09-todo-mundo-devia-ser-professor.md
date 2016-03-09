@@ -6,7 +6,7 @@ published: true
 tags: [cotidiano]
 categories: [cotidiano]
 date: 2016-03-09
-image: "/assets/images/caminhando.jpg"
+image: "/assets/images/minds.eye.by.oska.jpg"
 author: Marcos Ramon
 ---
 
