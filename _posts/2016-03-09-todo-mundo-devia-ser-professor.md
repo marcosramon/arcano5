@@ -6,7 +6,7 @@ published: true
 tags: [cotidiano]
 categories: [cotidiano]
 date: 2016-03-09
-image: "/assets/images/minds.eye.by.oska.jpg"
+image: "/assets/images/mindseye.png"
 author: Marcos Ramon
 ---
 
@@ -22,5 +22,5 @@ Existem momentos em que os professores recebem gratidão pelo seu empenho e esfo
 
 Todo mundo devia ser professor.
 
-<img src="/assets/images/minds.eye.by.oska.jpg">
+<img src="/assets/images/mindseye.png">
 *Pintura de [Oska](https://www.behance.net/Oskadesign){:target="_blank"}*
