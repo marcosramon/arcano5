@@ -12,8 +12,7 @@ author: Marcos Ramon
 
 Por esses dias eu estava pensando sobre a possibilidade de encontrar novas formas de me relacionar com os meus textos e com as coisas ideias presentes neles.
 
-Foi assim que acabei encontrando o [Infranodus](https://infranodus.com/){:target="_blank"}, um projeto (*opensource*) que permite que você importe uma base de dados existente (Twitter ou Evernote, por exemplo) e veja a relação entre os termos e principais conceitos na forma de grafos. Outra possibilidade, é inserir o texto direto no programa, marcando os conceitos que você gostaria de visualizar no grafo.i
-Isso permite estabelecer redes de conexão entre ideias e conceitos, o que, no contexto da escrita, acaba sendo uma possibilidade de ver o seu texto se desenvolvendo em um ritmo similar ao de um processo de pensamento (processo esse que não é estático, mas que se mantém vivo e pulsante, como o nosso pensamento efetivamente é).
+Foi assim que acabei encontrando o [Infranodus](https://infranodus.com/){:target="_blank"}, um projeto (*opensource*) que permite que você importe uma base de dados existente (Twitter ou Evernote, por exemplo) e veja a relação entre os termos e principais conceitos na forma de grafos. Outra possibilidade, é inserir o texto direto no programa, marcando os conceitos que você gostaria de visualizar no grafo. Isso permite estabelecer redes de conexão entre ideias e conceitos, o que, no contexto da escrita, acaba sendo uma possibilidade de ver o seu texto se desenvolvendo em um ritmo similar ao de um processo de pensamento (processo esse que não é estático, mas que se mantém vivo e pulsante, como o nosso pensamento efetivamente é).
 
 Uma das coisas mais interessantes que percebi utilizando o [Infranodus](https://infranodus.com/){:target="_blank"} (cada parágrafo nesse texto foi criado dentro do programa) foi a identificação de algumas "ausências", buracos ou gaps de comunicação entre os principais conceitos e termos.
 
