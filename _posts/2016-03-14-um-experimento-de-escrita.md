@@ -23,6 +23,6 @@ Trata-se aqui de uma forma inteiramente nova de escrita e de reflexão. Enquanto
 
 Enfim, esse texto foi um exercício de escrita sobre a escrita e sobre a interferência do programa (*Infranodus*) no estilo e desenvolvimento do que é dito e na forma como é dito.
 
-Aqui embaixo você pode ver o grafo criado a partir do Infranodus para esse texto. O grafo foi processado no [Gephi](https://gephi.org/){:target="_blank"}, mas não dei nenhum tipo de tratamento especial para os nós de conexão, apenas separei por cores a estrutura dos principais conceitos por proximidade. Estou empolgado com isso e temo nunca mais conseguir escrever de outro jeito. Agora, se isso é bom ou ruim, eu ainda não sei.
+Aqui embaixo você pode ver o grafo criado a partir do *Infranodus* para esse texto. O grafo foi processado no [Gephi](https://gephi.org/){:target="_blank"}, mas não dei nenhum tipo de tratamento especial para os nós de conexão, apenas separei por cores a estrutura dos principais conceitos por proximidade. Estou empolgado com isso e temo nunca mais conseguir escrever de outro jeito. Agora, se isso é bom ou ruim, eu ainda não sei.
 
 <img src="/assets/images/escrever.png">
