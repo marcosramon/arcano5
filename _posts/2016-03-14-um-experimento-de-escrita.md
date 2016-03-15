@@ -21,7 +21,7 @@ Nesse primeiro momento, não vejo isso de uma forma ruim. Na verdade, isso me re
 
 Trata-se aqui de uma forma inteiramente nova de escrita e de reflexão. Enquanto estou escrevendo, eu percebo diante de mim o texto ganhando vida e ocupando novos espaços de interação e significado. É certamente uma experiência completamente diferente escrever o texto em outro lugar (no Evernote, por exemplo) e depois simplesmente transportá-lo para cá, para visualizar suas redes de conexão, com suas falhas e aproximações. A escrita dentro do próprio programa, por outro lado, interfere no meu processo de pensamento. Me sinto impelido a utilizar alguns conceitos com mais frequência e a evitar alguns que "entendo" serem pouco relevantes (mas como saber, se eu os evito?).
 
-Enfim, esse texto foi um exercício de escrita sobre a escrita e sobre a interferência do programa (**Infranodus**) no estilo e desenvolvimento do que é dito e na forma como é dito.
+Enfim, esse texto foi um exercício de escrita sobre a escrita e sobre a interferência do programa (*Infranodus*) no estilo e desenvolvimento do que é dito e na forma como é dito.
 
 Aqui embaixo você pode ver o grafo criado a partir do Infranodus para esse texto. O grafo foi processado no [Gephi](https://gephi.org/){:target="_blank"}, mas não dei nenhum tipo de tratamento especial para os nós de conexão, apenas separei por cores a estrutura dos principais conceitos por proximidade. Estou empolgado com isso e temo nunca mais conseguir escrever de outro jeito. Agora, se isso é bom ou ruim, eu ainda não sei.
 
