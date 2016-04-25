@@ -5,7 +5,7 @@ description: "Sabe quando alguém tenta contar para você algo do seu passado?"
 published: true
 tags: [cotidiano]
 categories: [cotidiano]
-date: 2016-03-14
+date: 2016-04-25
 image: "/assets/images/kouzou.gif"
 author: Marcos Ramon
 ---
