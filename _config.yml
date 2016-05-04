@@ -14,12 +14,12 @@ kramdown:
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://www.arcano5.com.br'
+domain_name: 
 google_analytics: 'UA-38260251-2'
 
 # Permalinks
 permalink:        /:title/
 
 # Details for the RSS feed generator
-url:            'www.arcano5.com.br'
+url:            
 author:         'Marcos Ramon'
