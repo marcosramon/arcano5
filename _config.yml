@@ -15,7 +15,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 
-google_analytics: 'UA-38260251-2'
+google_analytics: 
 
 # Permalinks
 permalink:        /:title/
